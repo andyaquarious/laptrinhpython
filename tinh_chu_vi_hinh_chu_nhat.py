@@ -1,7 +1,8 @@
 
 while True:
     try:
-        #Bước 1:
+        #Bước 12344556
+        print('hello')
         print("Mời bạn nhập vào chieu dai cua hinh chu nhat:" )
         a = int(input())
         # Bước 2:
