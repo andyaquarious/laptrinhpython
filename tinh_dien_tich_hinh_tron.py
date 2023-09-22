@@ -1,7 +1,7 @@
 while True:
     try:
         #Bước 1:
-        print("Mời bạn nhập vào bán kính cua hinh chu nhat:" )
+        print("Mời bạn nhập vào bán kính cua hinh tròn:" )
         a = int(input())
         # Bước 2:
         while True:

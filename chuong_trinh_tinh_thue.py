@@ -7,11 +7,11 @@ while True:
                     print('tiền thuế phải đóng:')
                     print(a*0)
                 break
-        if(a>6000000<9000000):
+        if(6000000<=a<9000000):
             print('tiền thuế phải đóng:')
             print(a*0.02)
             break
-        if(a>9000000<12000000):
+        if(9000000<=a<12000000):
             print('tiền thuế phải đóng:')
             print(a*0.03)
             break
